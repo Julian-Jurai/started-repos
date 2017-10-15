@@ -1,13 +1,13 @@
 # Stared-Repos
 
-This project was developed as a learning exercise. It was built using Node.js as an introduction to the this library.
+This project was developed as a learning exercise. It was built using Node.js as an introduction to the  library.
 
-##Learning Outcomes
-- [ ] Reading and Writing from Files
-- [ ] Creating and setting up a server
-- [ ] Gain familiarity with the http module, streams and event emitters
-- [ ] Fetching data from an external API from a POST request
-- [ ] Debugging using devtool
+## Learning Outcomes
+-  Reading and Writing from Files
+-  Creating and setting up a server
+-  Gain familiarity with the http module, streams and event emitters
+-  Fetching data from an external API from a POST request
+-  Debugging using devtool
 
 
 ## About the project
